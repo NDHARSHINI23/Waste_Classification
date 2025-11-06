@@ -1,9 +1,12 @@
 # Waste Classification for Smart Recycling
 
 Project Overview
-This project uses a Convolutional Neural Network (MobileNetV2) trained on a Kaggle waste dataset  
-to classify waste as **Organic** or **Recyclable**.  
-It aims to support smart recycling through AI-based waste segregation.
+This project uses a Convolutional Neural Network (CNN) to classify waste images into categories like plastic, paper, metal, and organic.  
+Built using TensorFlow and deployed using Streamlit Cloud.
+
+
+Try the app here 👇
+[https://wasteclassification-jjierpr999scce3j856sch.streamlit.app/]
 
 
 Technologies Used
